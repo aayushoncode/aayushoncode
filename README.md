@@ -140,13 +140,6 @@ ayush@dev:~$ echo $FOCUS
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aayushoncode&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
----
 
 <div align="center">
 
