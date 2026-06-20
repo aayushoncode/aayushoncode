@@ -1,6 +1,10 @@
 <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayush%20Kumar%20Sinha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20AI%20%26%20Systems%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1500&color=6EE7F7&background=0D1117&center=true&vCenter=true&width=1000&height=80&lines=Ayush+Kumar+Sinha)
+![Subheader](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&width=1000&height=50&lines=Full+Stack+AI+%26+Systems+Engineer)
+
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C72D8&center=true&vCenter=true&width=600&lines=Building+AI+Agents+%26+RAG+Systems+%F0%9F%A4%96;Scalable+Backend+%7C+DevOps+Enthusiast+%F0%9F%9A%80;MERN+Stack+%7C+LangChain+%7C+LangGraph+%E2%9C%A8;Redis+%7C+Docker+%7C+Kubernetes+%7C+AWS+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 
