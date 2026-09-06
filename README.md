@@ -1,12 +1,9 @@
 <div align="center">
-<div align="center">
 
 ![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1500&color=6EE7F7&background=0D1117&center=true&vCenter=true&width=1000&height=80&lines=Ayush+Kumar+Sinha)
-![Subheader](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&width=1000&height=50&lines=Full+Stack+AI+%26+Systems+Engineer)
+![Subheader](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&width=1000&height=50&lines=Software+Engineer+%E2%80%94+AI+Engineering+%26+Backend+Systems)
 
-</div>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C72D8&center=true&vCenter=true&width=600&lines=Building+AI+Agents+%26+RAG+Systems+%F0%9F%A4%96;Scalable+Backend+%7C+DevOps+Enthusiast+%F0%9F%9A%80;MERN+Stack+%7C+LangChain+%7C+LangGraph+%E2%9C%A8;Redis+%7C+Docker+%7C+Kubernetes+%7C+AWS+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C72D8&center=true&vCenter=true&width=680&lines=Building+Agentic+AI+%26+RAG+Systems+%F0%9F%A4%96;Real-Time+Voice+AI+with+LiveKit+%2B+Pipecat+%F0%9F%8E%99%EF%B8%8F;FastAPI+%7C+Node.js+%7C+React+%E2%9C%A8;Redis+%7C+Docker+%7C+AWS+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 
 <br/>
 
@@ -21,10 +18,10 @@
 
 ```bash
 ayush@dev:~$ whoami
-→ AI Engineer building stateful LangGraph agents & production RAG systems
+→ Software Engineer building production Agentic AI, RAG & real-time voice AI systems
 
 ayush@dev:~$ echo $FOCUS
-→ LangChain · RAG · Redis · Docker · Kubernetes · CI/CD · System Design
+→ LangGraph · RAG · FastAPI · Redis · LiveKit/Pipecat · AWS · System Design
 ```
 
 ---
@@ -36,28 +33,30 @@ ayush@dev:~$ echo $FOCUS
 <td valign="top" width="33%">
 
 ### 🤖 AI Engineering
-- **LangGraph Agents** — stateful multi-agent workflows with memory & decision trees
-- **RAG Systems** — vector search via Qdrant & OpenSearch + semantic retrieval
-- **AI Security** — Nemo Guardrails + Ragas evaluation for reliable LLM output
-- **LLM Integration** — Google Gemini, OpenAI, prompt engineering at scale
+- **LangGraph Agents** — stateful, cyclical agent workflows with self-reflection
+- **Self-RAG / Agentic RAG** — iterative fact-checking with strict evaluation thresholds to reject unsupported claims
+- **Voice AI Pipelines** — STT → LLM → TTS via Pipecat with dynamic fallback for high availability
+- **MCP Integration** — context-aware retrieval across microservice ecosystems
+- **LangSmith** — telemetry, pipeline observability & latency tracing
 
 </td>
 <td valign="top" width="33%">
 
-### ⚙️ Backend & Scalability
-- **Redis Caching** — reduced API latency from ~60ms → ~3ms
-- **System Design** — microservices via API Gateway + Nginx load balancing
-- **Task Queues** — BullMQ + Redis for async jobs (email, notifications, exports)
-- **Auth** — JWT, OAuth2, role-based access control
+### ⚙️ Backend & Systems
+- **FastAPI + Node.js/Express** — scalable REST API design with Pydantic validation
+- **Real-Time Communication** — WebRTC via LiveKit for low-latency voice sessions
+- **Distributed State** — Redis-backed session sync across concurrent call sessions
+- **System Design** — microservices, distributed & monolithic architecture
+- **Web Security** — CSRF, XSS, NoSQL injection mitigation
 
 </td>
 <td valign="top" width="33%">
 
 ### ☁️ DevOps & Cloud
-- **Containers** — Docker + Docker Compose for Node/React apps
-- **Orchestration** — Kubernetes for multi-container production systems
-- **CI/CD** — GitHub Actions → AWS EC2/ECS automated deployments
-- **Monitoring** — Winston/Morgan structured logging + Pydantic Logfire
+- **Cloud Deployment** — AWS + LiveKit Cloud
+- **CI/CD** — automated pipelines, push-to-deploy
+- **Containers** — Docker, uv package manager
+- **Version Control** — Git & GitHub workflows
 
 </td>
 </tr>
@@ -71,80 +70,91 @@ ayush@dev:~$ echo $FOCUS
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-534AB7?style=flat-square&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+![Pipecat](https://img.shields.io/badge/Pipecat-7C72D8?style=flat-square&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Backend**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=flat-square&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **DevOps & Cloud**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-FF4C4C?style=flat-square&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+---
 
+## 🚀 Featured Projects
+
+### 🩺 Medicall — AI Orchestration Engine
+`LiveKit` `Pipecat` `Redis` `LangSmith`
+- Real-time conversational AI for patient-doctor interactions over WebRTC, scaled to support 10 concurrent call sessions
+- Distributed session state manager built on Redis with automated LLM fallback strategies
+- Background extraction agent with in-memory buffering for clinical data, instrumented end-to-end with LangSmith
+
+### 📄 Automated Document Processing System
+`Gemini Flash` `OCR` `HITL React`
+- Document extraction pipeline parsing unstructured e-scrap warehouse PDFs into validated JSON schemas
+- Programmatic rule engine for dynamic, nested validation logic (e.g. tonnage thresholds) with pass/fail diagnostics
+- React-based Human-in-the-Loop interface with a synchronized PDF viewer for real-time manual overrides
+
+### 🔍 Self-Reflective RAG (Fact-Checking AI)
+`Self-RAG` `Agentic RAG` `MCP` `LangGraph`
+- Self-RAG framework with iterative fact-checking and stateful cyclical flow control
+- Strict LLM evaluation thresholds that automatically reject unsupported generation claims
+- MCP integration for context-aware retrieval across larger microservice ecosystems
+
+---
 
 ## ⚡ Performance Highlights
 
 | Metric | Before | After | Method |
 |--------|--------|-------|--------|
+| Concurrent Voice Sessions | 1 | 10 | Redis-backed distributed session sync (Medicall) |
 | API Latency | ~60ms | ~3ms | Redis caching layer |
 | Deploy Frequency | Manual | On every push | GitHub Actions CI/CD |
-| Scale | Single server | Horizontal | Nginx + microservices |
-| Job Processing | Synchronous | Async non-blocking | BullMQ + Redis queues |
+| Document Data Entry | Manual | Automated | Gemini OCR + validation rule engine |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aayushoncode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c72d8&icon_color=1D9E75&text_color=8b949e&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushoncode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c72d8&text_color=8b949e&langs_count=8" />
-
-<br/>
+[![GitHub followers](https://img.shields.io/github/followers/aayushoncode?style=for-the-badge&logo=github&color=7c72d8&labelColor=0d1117)](https://github.com/aayushoncode?tab=followers)
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushoncode&theme=tokyonight&hide_border=true&background=0d1117&ring=7c72d8&fire=1D9E75&currStreakLabel=7c72d8" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aayushoncode&bg_color=0d1117&color=7c72d8&line=1D9E75&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-
 <div align="center">
 
 ### 💬 Ask me about
-`System Design` · `Redis Caching` · `CI/CD Pipelines` · `AI Agents` · `RAG` · `LangGraph` · `React` · `Next.js`
+`Agentic AI` · `RAG` · `LangGraph` · `Voice AI (LiveKit/Pipecat)` · `FastAPI` · `System Design` · `Redis`
 
 <br/>
 
@@ -152,6 +162,6 @@ ayush@dev:~$ echo $FOCUS
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+![Thanks for visiting](https://img.shields.io/badge/Thanks%20for%20visiting-👋-7c72d8?style=for-the-badge&labelColor=0d1117)
 
 </div>
